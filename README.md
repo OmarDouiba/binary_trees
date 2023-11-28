@@ -32,7 +32,8 @@
 ![](./images/2.png)
 
 ## [6-binary_tree_preorder.c]()
-
+## [7-binary_tree_inorder.c]()
+## [8-binary_tree_postorder.c]()
 ![](./images/pre_post_in_order.png)
 ## Authors
 
