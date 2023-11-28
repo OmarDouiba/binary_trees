@@ -31,6 +31,9 @@
 
 ![](./images/2.png)
 
+## [6-binary_tree_preorder.c]()
+
+![](./images/pre_post_in_order.png)
 ## Authors
 
 - [OMAR DOUIBA](https://github.com/OmarDouiba)
